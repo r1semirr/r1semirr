@@ -1,5 +1,9 @@
+![looping GIF by slater](https://github.com/user-attachments/assets/68795011-bdc7-4e84-9110-e9d76b4261a8)
+![Cat Pictures GIF](https://github.com/user-attachments/assets/d2d2aa04-e227-438e-94cf-ed60a1ed90ae) 
 
-![Cat Pictures GIF](https://github.com/user-attachments/assets/d2d2aa04-e227-438e-94cf-ed60a1ed90ae)
+
+
+
 
 
 
