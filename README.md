@@ -1,4 +1,9 @@
-![hll](https://github.com/user-attachments/assets/e0b46ddd-01dc-4da3-950a-8b2995f231f3)
+
+![Cat Pictures GIF](https://github.com/user-attachments/assets/d2d2aa04-e227-438e-94cf-ed60a1ed90ae)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Emirkan Ülker</h1>
 <h3 align="center">Junior Full Stack Developer from TURKEY</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1semirr&label=Profile%20views&color=0e75b6&style=flat" alt="r1semirr" /> </p>
