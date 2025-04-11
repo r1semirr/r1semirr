@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Emirkan Ülker</h1>
 
-<h3 align="center">Full Stack Developer from TURKEY</h3>
+<h3 align="center">Junior Developer from TURKEY</h3>
 
 - 📫 How to reach me **emirkanulker08@gmail.com**
  
